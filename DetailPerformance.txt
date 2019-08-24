@@ -19,6 +19,12 @@
         you can post method from client to this api
         and update data from this api and respone to Clinet website
     }
+    
+    Edit
+    {
+        you can post method from client to this api
+        and Edit data from this api and respone to Clinet website
+    }
 
 
 © Copyright. All Rights Reserved and Developed by PG Memory
