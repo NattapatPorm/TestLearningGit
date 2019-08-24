@@ -1,0 +1,11 @@
+*************************************************************************
+************this is detail about performance this website****************
+*************************************************************************
+
+    Add function 
+    {
+        you can post method from client to this api
+        and add data from this api and respone to Clinet website
+    }
+
+© Copyright. All Rights Reserved and Developed by PG Memory
